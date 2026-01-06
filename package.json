@@ -1,0 +1,21 @@
+{
+  "name": "com.cysharp.observablecollections",
+  "displayName": "ObservableCollections",
+  "author": {
+    "name": "Cysharp, Inc.",
+    "url": "https://cysharp.co.jp/en/"
+  },
+  "version": "3.3.4",
+  "unity": "2021.3",
+  "description": "Observable Collections for Unity.",
+  "keywords": [
+    "collections",
+    "Scripting"
+  ],
+  "license": "MIT",
+  "category": "Scripting",
+  "dependencies": {
+    "com.unity.modules.imgui": "1.0.0"
+  },
+  "_fingerprint": "440649fc479f841316886494cbd53f4f2f8f76bf"
+}
